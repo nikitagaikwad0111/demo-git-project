@@ -1,1 +1,2 @@
 Hello Github
+Learning Git is fun!!
